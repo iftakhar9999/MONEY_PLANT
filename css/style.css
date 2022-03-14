@@ -1,0 +1,33 @@
+#header {
+       color:rgba(43, 151, 136, 0.7);
+       text-align: center;
+}
+.flex-box{
+    display: flex;
+    padding:3em;
+}
+
+img{
+    max-width:95%;
+    height: 550px;
+}
+/* income with js  */
+#math{   
+    background-color: rgb(240, 240, 240);
+    text-align: center;
+    margin-left: 8em;
+}
+#income-feild{
+   
+    padding:  5px 60px 5px 60px;
+    margin: 8px ;
+    box-sizing: border-box;
+    background-color:rgb(180, 180, 180); 
+   
+}
+#food-feild{
+    padding:  5px 60px 5px 60px;
+    margin: 8px ;
+    box-sizing: border-box;
+    background-color:rgb(180, 180, 180);
+}
